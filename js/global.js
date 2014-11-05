@@ -1,6 +1,6 @@
 jQuery(document).ready(function($){
 
 	//Body red
-	$('body').css({'background' : 'red',});
+	$('body').css({'background' : 'blue',});
 
 });
